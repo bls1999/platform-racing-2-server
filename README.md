@@ -16,15 +16,17 @@ All contributions are welcome; however, please keep these things in mind when co
 
 To submit new ideas, post a thread in the [PR2 Suggestions](https://jiggmin2.com/forums/forumdisplay.php?fid=45) section on [the JV2 forums](https://jiggmin2.com/forums). To appeal PR2 bans, post a thread in the [Ask a Mod](https://jiggmin2.com/aam) section.
 
+## Collaborators
+- [bls1999](http://github.com/bls1999)
+
 ## Contributors
-- aaaaaa123456789
-- bls1999
-- BrokenBulb78
-- Dex472
-- EternalUF
-- famelegend1
-- fourst4r
-- Grovbi
-- isokissa3
-- Shane1334
-- Stxtics
+- [aaaaaa123456789](http://github.com/aaaaaa123456789)
+- [BrokenBulb78](http://github.com/BrokenBulb78)
+- [Dex472](http://github.com/Dex472)
+- [EternalUF](http://github.com/EternalUF)
+- [famelegend1](http://github.com/famelegend1)
+- [fourst4r](http://github.com/fourst4r)
+- [Grovbi](http://github.com/Grovbi)
+- [Stxtics](http://github.com/Stxtics)
+- [isokissa3](http://github.com/isokissa3)
+- [Shane1334](http://github.com/Grovbi)
